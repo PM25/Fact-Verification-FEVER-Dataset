@@ -129,5 +129,6 @@ dmypy.json
 .pyre/
 
 data/
+processed_data/
 .test
 .vscode/
